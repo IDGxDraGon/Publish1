@@ -1,0 +1,118 @@
+body{
+    background-color: rgb(170, 221, 255);
+    border: 10px groove;
+    border-radius: 5px;
+    border-color: lightblue;
+}
+#wee{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 5px rgb(3, 206, 206);
+    margin-left: 505px;
+    background-color: blue;
+    margin-right: 500px;
+    padding-left: 10px;
+}
+#se{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+#se div{
+    height: 370px;
+    width: 335px;
+    margin: 50px;
+    padding-bottom: 50px;
+    border: 5px solid;
+    background-color: beige;
+    font-family: cursive;
+    text-align: center;
+}
+#se div h4{
+    text-align: center;
+}
+#qvq{
+    margin-left: 320px;
+    margin-bottom: -90px;
+}
+#imgequality{
+    margin-top: 50px;
+}
+#qqd{
+    font-family: cursive;
+    color: rgb(255, 251, 0);
+    text-shadow: 4px 4px 5px rgb(203, 206, 3);
+    margin-left: 300px;
+}
+h3{
+    font-family: cursive;
+    text-shadow: 2px 2px 5px black;
+    text-align: center;
+}
+hr{
+    border-top: 8px solid;
+    border-radius: 5px;
+    color: cyan;
+}
+#qqt{
+    font-family: cursive;
+    color: rgb(0, 81, 255);
+    text-shadow: 4px 4px 5px rgb(3, 17, 206);
+    margin-left: 420px;
+}
+#tqq{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 1100px;
+}
+#tqq div{
+    height: 370px;
+    width: 800px;
+    margin: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 500px;
+    font-family: cursive;
+    text-align: left;
+}
+#qqe{
+    font-family: cursive;
+    color: rgb(0, 255, 42);
+    text-shadow: 4px 4px 5px rgb(3, 206, 20);
+    margin-left: 420px;
+}
+#eqq{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+#eqq div{
+    height: 370px;
+    width: 800px;
+    margin: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    font-family: cursive;
+    text-align: left;
+}
+#feeter{
+    background-color: rgba(3, 7, 255, 0.952);
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 5px solid;
+    border-radius: 20px;
+}
+#tif{
+    text-align: center; 
+    font-family: cursive;
+}
+#w{
+    text-align: center; 
+    font-family: cursive;
+}
